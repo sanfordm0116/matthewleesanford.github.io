@@ -1,0 +1,527 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="matthewleesanford.com" resolutions="1x" timestamp="1529937291843">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="360113204" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="263184727" ref="index"/>
+    <file name="master_internal.css" crc="130030624" ref="my-work:mobile-addon:contact:about-me"/>
+    <file name="nomq_preview_master_internal.css" crc="298547495" ref="my-work:mobile-addon:contact:about-me"/>
+    <file name="my-work.css" crc="3921803414" ref="my-work"/>
+    <file name="nomq_my-work.css" crc="4214317887" ref="my-work"/>
+    <file name="mobile-addon.css" crc="4240628077" ref="mobile-addon"/>
+    <file name="nomq_mobile-addon.css" crc="346897171" ref="mobile-addon"/>
+    <file name="index.css" crc="4023878569" ref="index"/>
+    <file name="nomq_index.css" crc="4051492806" ref="index"/>
+    <file name="contact.css" crc="4262311380" ref="contact"/>
+    <file name="nomq_contact.css" crc="4112830092" ref="contact"/>
+    <file name="about-me.css" crc="79594499" ref="about-me"/>
+    <file name="nomq_about-me.css" crc="4083854878" ref="about-me"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:my-work:about-me:contact:mobile-addon"/>
+    <file name="museutils.js" crc="3803043152" ref="index:my-work:about-me:contact:mobile-addon"/>
+    <file name="whatinput.js" crc="86476730" ref="index:my-work:about-me:contact:mobile-addon"/>
+    <file name="museconfig.js" crc="380897831" ref="index:my-work:about-me:contact:mobile-addon"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:my-work:about-me:contact:mobile-addon"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:my-work:about-me:contact:mobile-addon"/>
+    <file name="require.js" crc="4157109226" ref="index:my-work:about-me:contact:mobile-addon"/>
+    <file name="webpro.js" crc="242022427" ref="my-work:contact:mobile-addon"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="my-work:mobile-addon"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="my-work:mobile-addon"/>
+    <file name="touchswipe.js" crc="4066113679" ref="my-work:mobile-addon"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u1783.php" crc="4088984028" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="banner.png" crc="4205075940" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner2.png" crc="4181209891" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="matt-01.png" crc="70275155" seo="true" ref="index:my-work:about-me:contact:mobile-addon">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="matt-02.png" crc="277446323" seo="true" ref="index:my-work:about-me:contact:mobile-addon">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="matt-03.png" crc="513094509" seo="true" ref="index:my-work:about-me:contact:mobile-addon">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="matt-04.png" crc="410669053" seo="true" ref="index:my-work:about-me:contact:mobile-addon">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="matt-05.png" crc="437633095" seo="true" ref="index:my-work:about-me:contact:mobile-addon">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:my-work:about-me:contact:mobile-addon"/>
+    <file name="fruit--crop-u2994.jpg" crc="3991869827" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew_photoshopproject1-crop-u5842.jpg" crc="3868182001" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew_1_color_cut_vinyl-crop-u3249.jpg" crc="3966042068" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew-sanford---project-5--crop-u3309.jpg" crc="4068055359" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="painting-crop-u3369.jpg" crc="4266884769" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="letterhead and more ai-01-crop-u3169.jpg" crc="390989416" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="letterhead and more ai-02-crop-u3189.jpg" crc="166518705" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew---positive-quote-crop-u3269.jpg" crc="3875805586" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthewprintv-crop-u3329.jpg" crc="315065730" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="print-viynal-crop-u3389.jpg" crc="3918954515" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew_6pictures-crop-u5811.jpg" crc="3921676185" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="letterhead and more ai-03-crop-u3209.jpg" crc="293499824" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew-multiple-color-vinyl-cut-crop-u3289.jpg" crc="494689686" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="mistral-me-crop-u3349.jpg" crc="3989656908" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="fruit--crop-u2988.jpg" crc="3764516017" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="letterhead and more ai-01.jpg" crc="25790527" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew_6pictures.jpg" crc="127854846" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew_photoshopproject1-crop-u5833.jpg" crc="3875613267" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="letterhead and more ai-02.jpg" crc="157051762" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="letterhead and more ai-03.jpg" crc="423039883" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew_1_color_cut_vinyl.jpg" crc="4281638540" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew---positive-quote.jpg" crc="75983727" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew-multiple-color-vinyl-cut.jpg" crc="9821056" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew-sanford---project-5-.jpg" crc="76289405" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthewprintv.jpg" crc="3979848429" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="mistral-me-crop-u3343.jpg" crc="3902012832" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="painting.jpg" crc="16222455" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="print-viynal.jpg" crc="171504760" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="my-work:mobile-addon"/>
+    <file name="business card.jpg" crc="4212056456" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="flire supermarket variable data.jpg" crc="3770731718" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="magazine matthew418x540.jpg" crc="202650920" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew variable data project.jpg" crc="3766825597" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew-book-alt350x540.jpg" crc="4168854080" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="newsletter418x540.jpg" crc="284142778" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="business card-crop-u4133.jpg" crc="4275713911" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="flire supermarket variable data-crop-u4303.jpg" crc="4070024095" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="magazine matthew-crop-u4334.jpg" crc="3758173832" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew variable data project-crop-u4365.jpg" crc="107631135" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew-book-alt-crop-u4396.jpg" crc="428060887" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="newsletter-crop-u4427.jpg" crc="372744" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="fruit--crop-u29942.jpg" crc="4078180210" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew_photoshopproject1-crop-u58422.jpg" crc="4179999486" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew_1_color_cut_vinyl-crop-u32492.jpg" crc="243744592" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew-sanford---project-5--crop-u33092.jpg" crc="338078608" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="painting-crop-u33692.jpg" crc="379621914" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="letterhead and more ai-01-crop-u31692.jpg" crc="3800905332" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="letterhead and more ai-02-crop-u31892.jpg" crc="138937266" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew---positive-quote-crop-u32692.jpg" crc="120811573" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthewprintv-crop-u33292.jpg" crc="4253137891" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="print-viynal-crop-u33892.jpg" crc="55707843" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew_6pictures-crop-u58112.jpg" crc="421073145" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="letterhead and more ai-03-crop-u32092.jpg" crc="113529274" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew-multiple-color-vinyl-cut-crop-u32892.jpg" crc="166131333" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="mistral-me-crop-u33492.jpg" crc="4036175271" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="fruit--crop-u29882.jpg" crc="210416146" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="letterhead and more ai-01160x207.jpg" crc="4263090896" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew_6pictures276x178.jpg" crc="524822157" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew_photoshopproject1-crop-u58332.jpg" crc="350857339" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="letterhead and more ai-02276x158.jpg" crc="3811973567" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="letterhead and more ai-03193x193.jpg" crc="113851151" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew_1_color_cut_vinyl184x184.jpg" crc="17000601" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew---positive-quote134x207.jpg" crc="3895723634" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew-multiple-color-vinyl-cut176x140.jpg" crc="3951047631" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew-sanford---project-5-276x179.jpg" crc="4010894543" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthewprintv111x111.jpg" crc="264921178" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="mistral-me135x208.jpg" crc="332388697" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="painting258x184.jpg" crc="384665315" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="flire supermarket variable data166x118.jpg" crc="3983632854" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="magazine matthew160x207.jpg" crc="252683693" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew-book-alt134x207.jpg" crc="4059941952" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="newsletter160x207.jpg" crc="378695496" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="business card-crop-u41332.jpg" crc="189867189" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="flire supermarket variable data-crop-u43032.jpg" crc="322486577" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="magazine matthew-crop-u43342.jpg" crc="227477940" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew variable data project-crop-u43652.jpg" crc="3930192803" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew-book-alt-crop-u43962.jpg" crc="213296023" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="newsletter-crop-u44272.jpg" crc="4015190446" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="fruit--crop-u29943.jpg" crc="3832909620" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew_photoshopproject1-crop-u58423.jpg" crc="394535594" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew_1_color_cut_vinyl-crop-u32493.jpg" crc="3915723518" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew-sanford---project-5--crop-u33093.jpg" crc="4238241958" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="painting-crop-u33693.jpg" crc="212435772" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="letterhead and more ai-01-crop-u31693.jpg" crc="4055694754" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="letterhead and more ai-02-crop-u31893.jpg" crc="391135923" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew---positive-quote-crop-u32693.jpg" crc="3865417252" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthewprintv-crop-u33293.jpg" crc="3876277586" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="print-viynal-crop-u33893.jpg" crc="198461452" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew_6pictures-crop-u58113.jpg" crc="4119600695" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="letterhead and more ai-03-crop-u32093.jpg" crc="3950731929" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew-multiple-color-vinyl-cut-crop-u32893.jpg" crc="80927247" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="mistral-me-crop-u33493.jpg" crc="343276414" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="fruit--crop-u29883.jpg" crc="3763827269" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="letterhead and more ai-01139x180.jpg" crc="91645517" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew_6pictures-crop-u5801.jpg" crc="4268236638" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew_photoshopproject1-crop-u58333.jpg" crc="4251666467" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="letterhead and more ai-02240x138.jpg" crc="3800925424" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="letterhead and more ai-03168x168.jpg" crc="8244881" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew_1_color_cut_vinyl160x160.jpg" crc="518033011" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew---positive-quote117x180.jpg" crc="444423941" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew-multiple-color-vinyl-cut153x122.jpg" crc="507074746" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthew-sanford---project-5-240x155.jpg" crc="230228675" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="matthewprintv97x96.jpg" crc="432322965" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="mistral-me117x181.jpg" crc="4059642323" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="painting224x160.jpg" crc="4230777857" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="business card-crop-u7476.jpg" crc="3831316790" seo="true" ref="mobile-addon">
+      <caption webpage="mobile-addon" alt=""/>
+    </file>
+    <file name="flire supermarket variable data-crop-u7474.jpg" crc="291602941" seo="true" ref="mobile-addon">
+      <caption webpage="mobile-addon" alt=""/>
+    </file>
+    <file name="matthew variable data project-crop-u7482.jpg" crc="4039946145" seo="true" ref="mobile-addon">
+      <caption webpage="mobile-addon" alt=""/>
+    </file>
+    <file name="magazine matthew139x180.jpg" crc="4130409435" seo="true" ref="mobile-addon">
+      <caption webpage="mobile-addon" alt=""/>
+      <caption webpage="mobile-addon" alt=""/>
+    </file>
+    <file name="matthew-book-alt-crop-u7480.jpg" crc="4095479209" seo="true" ref="mobile-addon">
+      <caption webpage="mobile-addon" alt=""/>
+    </file>
+    <file name="newsletter-crop-u7478.jpg" crc="3906216149" seo="true" ref="mobile-addon">
+      <caption webpage="mobile-addon" alt=""/>
+    </file>
+    <file name="business card-crop-u74762.jpg" crc="4231902528" seo="true" ref="mobile-addon">
+      <caption webpage="mobile-addon" alt=""/>
+    </file>
+    <file name="flire supermarket variable data-crop-u74742.jpg" crc="3826465773" seo="true" ref="mobile-addon">
+      <caption webpage="mobile-addon" alt=""/>
+    </file>
+    <file name="matthew variable data project-crop-u74822.jpg" crc="182572878" seo="true" ref="mobile-addon">
+      <caption webpage="mobile-addon" alt=""/>
+    </file>
+    <file name="magazine matthew62x80.jpg" crc="3832816770" seo="true" ref="mobile-addon">
+      <caption webpage="mobile-addon" alt=""/>
+    </file>
+    <file name="matthew-book-alt52x80.jpg" crc="3836150268" seo="true" ref="mobile-addon">
+      <caption webpage="mobile-addon" alt=""/>
+    </file>
+    <file name="newsletter-crop-u74782.jpg" crc="3875322535" seo="true" ref="mobile-addon">
+      <caption webpage="mobile-addon" alt=""/>
+    </file>
+    <file name="business card-crop-u6715.jpg" crc="3831316790" seo="true" ref="mobile-addon">
+      <caption webpage="mobile-addon" alt=""/>
+    </file>
+    <file name="flire supermarket variable data-crop-u6869.jpg" crc="291602941" seo="true" ref="mobile-addon">
+      <caption webpage="mobile-addon" alt=""/>
+    </file>
+    <file name="matthew variable data project-crop-u6906.jpg" crc="4039946145" seo="true" ref="mobile-addon">
+      <caption webpage="mobile-addon" alt=""/>
+    </file>
+    <file name="matthew-book-alt-crop-u6990.jpg" crc="4095479209" seo="true" ref="mobile-addon">
+      <caption webpage="mobile-addon" alt=""/>
+    </file>
+    <file name="newsletter-crop-u7022.jpg" crc="3906216149" seo="true" ref="mobile-addon">
+      <caption webpage="mobile-addon" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4062161738" seo="true" mt="1529937165913" redirect="true"/>
+  <file name="my-work.html" crc="4255839688" seo="true" mt="1529937079817" redirect="true"/>
+  <file name="about-me.html" crc="3997732730" seo="true" mt="1529937079817" redirect="true"/>
+  <file name="contact.html" crc="3889258622" seo="true" mt="1529937079817" redirect="true"/>
+  <file name="mobile-addon.html" crc="3764620803" seo="true" mt="1529937079817" redirect="true"/>
+</manifest>
